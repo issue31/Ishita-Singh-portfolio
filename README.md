@@ -4,21 +4,19 @@ https://issue31.github.io/Ishita-Singh-portfolio/
 <h1 align="center">Hi 👋, I'm Ishita Singh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-pred&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-pred" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=issue31&label=Profile%20views&color=0e75b6&style=flat" alt="issue31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav-pred" alt="rishav-pred" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=issue31" alt="issue31" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/humblefool111" target="blank"><img src="https://img.shields.io/twitter/follow/humblefool111?logo=twitter&style=for-the-badge" alt="humblefool111" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
-- 👨‍💻 All of my projects are available at [https://rishav-pred.github.io/rishav-chaudhary/](https://rishav-pred.github.io/rishav-chaudhary/)
+- 🌱 I’m currently learning **Data Analytics,in particular Power BI**
 
 - 💬 Ask me about **React JS, Angular JS, Springboot, MERN Stack, Machine Learning**
 
 - 📫 How to reach me **recruit.ishita.singh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-0gf7aHeYY010qy9G9-XTui7GSVSA6ps/view?usp=sharing](https://drive.google.com/file/d/1-0gf7aHeYY010qy9G9-XTui7GSVSA6ps/view?usp=sharing)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,8 +25,7 @@ https://issue31.github.io/Ishita-Singh-portfolio/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/humblefool111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="humblefool111" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishav23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishav23/" height="30" width="40" /></a>
-<a href="https://instagram.com/onlyy.rishabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onlyy.rishabh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishita-s-4b336a191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishita-s-4b336a191/" height="30" width="40" /></a>
 <a href="https://medium.com/@rishavchaudhary2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishavchaudhary2019" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/carpediem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="carpediem" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://www.linkedin.com/in/rishav23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.linkedin.com/in/rishav23/" height="30" width="40" /></a>
